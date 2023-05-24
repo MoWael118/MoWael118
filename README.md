@@ -1,20 +1,31 @@
-### Hi there 👋
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<h3 align="center">
+        <samp>&gt; Hey There!, I am Wael
+    
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a </a>
+    <br>
+    「 I am an Embedded software Engineer from <b>Egypt</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
   
-<!--
-**MoWael118/MoWael118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  
+- 🔭 I’m currently Studying Mechatronics Engineering in MU
+- 🌱 I’m currently learning ARM Based MCUs
+- 📫 You Can find me here :  <a href="https://www.linkedin.com/in/mohammed-wael-010a0821b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wael"/>
+ </a>
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: EngMohamedWael@outlook.com<br/><br/>
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
